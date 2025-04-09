@@ -25,6 +25,7 @@ samples, guidance on mobile development, and a full API reference.
 
 > Named Parameter
 
+- gunakan {} untuk membuat paramenter menjadi named parameter
 - Penggunaan parameter tidak perlu berurutan, karena parameter harus dipanggil dahulu
 - parameter bersifat optional jadi parameter dapat dikosongkan
 - parameter dapat dibuat menjadi mandatory dengan menggunakan keyword required
