@@ -29,3 +29,18 @@ samples, guidance on mobile development, and a full API reference.
 - Penggunaan parameter tidak perlu berurutan, karena parameter harus dipanggil dahulu
 - parameter bersifat optional jadi parameter dapat dikosongkan
 - parameter dapat dibuat menjadi mandatory dengan menggunakan keyword required
+
+> const
+
+- keyword yang mengoptimasi performa
+
+> Widget = Object = Data Structure in Memory
+
+> Class
+
+- nama class ditulis dengan format camel
+
+## Flutter
+
+> Scaffold
+> Layout - Center
