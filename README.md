@@ -40,6 +40,16 @@ samples, guidance on mobile development, and a full API reference.
 
 - nama class ditulis dengan format camel
 
+> Final
+
+- value tidak akan pernah diubah saat variabel dipanggil
+- gunakan const jika variabel tidak pernah berubah, karena flutter akan mengutamakan const
+
+> this
+
+- membadakan variabel lokal dengan properti kelas
+- biasa digunakan pada saat parameter sama dengan nama properti
+
 ## Flutter
 
 > Scaffold
