@@ -54,3 +54,14 @@ samples, guidance on mobile development, and a full API reference.
 
 > Scaffold
 > Layout - Center
+> Column & Row
+
+- dapat digunakan untuk menampilkan lebih dari satu widget di dalamnya
+
+> StatelessWidget
+
+- tidak bisa menampilkan data yang nilainya dapat berubah
+
+> StatefullWidget
+
+- digunakan untuk dapat mengubah data yang ditampilkan
